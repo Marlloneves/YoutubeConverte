@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "qFBbz1VbHriGFPWKDFKi8n0Nj50jupiAWu9ku0xNRrQGp1a0qZURmap8QsIR+dJ7TpYTCFiTm+U52ov0zpWjHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marll\\OneDrive\\Área de Trabalho\\YoutubeConverter\\YoutubeConverter\\YoutubeConverter.Service\\YoutubeConverter.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marll\\.nuget\\packages\\anglesharp\\1.0.7\\anglesharp.1.0.7.nupkg.sha512",
+    "C:\\Users\\marll\\.nuget\\packages\\cliwrap\\3.6.4\\cliwrap.3.6.4.nupkg.sha512",
+    "C:\\Users\\marll\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
+    "C:\\Users\\marll\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\marll\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\marll\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
+    "C:\\Users\\marll\\.nuget\\packages\\nreco.videoconverter\\1.2.1\\nreco.videoconverter.1.2.1.nupkg.sha512",
+    "C:\\Users\\marll\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\marll\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\marll\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\marll\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\marll\\.nuget\\packages\\system.text.encoding.codepages\\7.0.0\\system.text.encoding.codepages.7.0.0.nupkg.sha512",
+    "C:\\Users\\marll\\.nuget\\packages\\youtubeexplode\\6.3.9\\youtubeexplode.6.3.9.nupkg.sha512",
+    "C:\\Users\\marll\\.nuget\\packages\\youtubeexplode.converter\\6.3.9\\youtubeexplode.converter.6.3.9.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "b6SUFUp7oCQlHtLOiX6bp4eNZVnbE4V01I6K7BQq/7U=",
+  "Source": "YoutubeConverter.Service",
+  "BasePath": "_content/YoutubeConverter.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

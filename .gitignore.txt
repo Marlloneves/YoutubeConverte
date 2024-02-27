@@ -1,0 +1,38 @@
+# Arquivos temporários
+*~
+
+# Arquivos de compilação
+*.o
+*.out
+*.exe
+
+# Arquivos gerados automaticamente
+*.class
+*.jar
+*.war
+
+# Dependências e pacotes
+node_modules/
+vendor/
+
+# Arquivos de configuração específicos do sistema
+.DS_Store
+Thumbs.db
+
+# Logs e arquivos de saída
+*.log
+*.log.*
+log/
+logs/
+
+# Arquivos de ambiente
+.env
+
+# Arquivos de cache e dados temporários
+.cache/
+.tmp/
+.temp/
+
+# Diretório de construção
+/build/
+dist/

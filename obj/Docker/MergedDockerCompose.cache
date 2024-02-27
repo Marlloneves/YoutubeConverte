@@ -1,0 +1,18 @@
+name: dockercompose2612958173815007566
+services:
+  youtubeconverter.service:
+    build:
+      context: C:\Users\marll\OneDrive\Área de Trabalho\YoutubeConverter\YoutubeConverter
+      dockerfile: YoutubeConverter.Service\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: youtubeconverterservice
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 80
+        protocol: tcp
+networks:
+  default:
+    name: dockercompose2612958173815007566_default

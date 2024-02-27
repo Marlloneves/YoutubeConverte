@@ -1,0 +1,16 @@
+C:\Users\marll\OneDrive\Área de Trabalho\YoutubeConverter\YoutubeConverter\bin\Debug\YoutubeConverter.Service.deps.json
+C:\Users\marll\OneDrive\Área de Trabalho\YoutubeConverter\YoutubeConverter\bin\Debug\YoutubeConverter.Service.runtimeconfig.json
+C:\Users\marll\OneDrive\Área de Trabalho\YoutubeConverter\YoutubeConverter\bin\Debug\appsettings.Development.json
+C:\Users\marll\OneDrive\Área de Trabalho\YoutubeConverter\YoutubeConverter\bin\Debug\appsettings.json
+C:\Users\marll\OneDrive\Área de Trabalho\YoutubeConverter\YoutubeConverter\bin\Debug\YoutubeConverter.Service.exe
+C:\Users\marll\OneDrive\Área de Trabalho\YoutubeConverter\YoutubeConverter\bin\Debug\YoutubeConverter.Service.dll
+C:\Users\marll\OneDrive\Área de Trabalho\YoutubeConverter\YoutubeConverter\bin\Debug\YoutubeExplode.dll
+C:\Users\marll\OneDrive\Área de Trabalho\YoutubeConverter\YoutubeConverter\bin\Debug\NReco.VideoConverter.dll
+C:\Users\marll\OneDrive\Área de Trabalho\YoutubeConverter\YoutubeConverter\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\marll\OneDrive\Área de Trabalho\YoutubeConverter\YoutubeConverter\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\marll\OneDrive\Área de Trabalho\YoutubeConverter\YoutubeConverter\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\marll\OneDrive\Área de Trabalho\YoutubeConverter\YoutubeConverter\bin\Debug\AngleSharp.dll
+C:\Users\marll\OneDrive\Área de Trabalho\YoutubeConverter\YoutubeConverter\bin\Debug\YoutubeConverter.Service.pdb
+C:\Users\marll\OneDrive\Área de Trabalho\YoutubeConverter\YoutubeConverter\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\marll\OneDrive\Área de Trabalho\YoutubeConverter\YoutubeConverter\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\marll\OneDrive\Área de Trabalho\YoutubeConverter\YoutubeConverter\obj\Debug\docker-compose.dcproj.CopyComplete

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\YoutubeConverter.Service.props" />
+</Project>
